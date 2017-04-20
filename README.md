@@ -3,4 +3,6 @@ Lone Star PHP 2017 - Getting Git
 
 Sample Repository from Getting Git workshop.
 
-Local Change.
+Change on Master for Push Conflict. Boom!
+
+Local Change. Whew!
